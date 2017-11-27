@@ -1,0 +1,17 @@
+.idea
+*.iml
+out/**
+
+# IntelliJ
+*/out/**
+*/logs/**
+logs/**
+*/target/**
+
+#Eclipse Configuration Files
+/.project
+/.settings
+*/.settings
+*.classpath
+*.project
+*.orig
